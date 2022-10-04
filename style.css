@@ -6,7 +6,7 @@ font-family: 'karla';
 }
 
 *, *:before, *:after {
-box-zising:inherit;
+box-sizing:inherit;
 }
 body {
 padding: 20px;
